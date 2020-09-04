@@ -1,6 +1,6 @@
 package CoreJava;
 
-public class helloWorld {
+public class $01_helloWorld {
 
     static String name = "Jhon";
 
